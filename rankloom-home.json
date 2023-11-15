@@ -3,29 +3,33 @@
     "name": "test",
     "symbol": "sym",
     "category": "GameFi",
-    "launchDay": "20, Sep 2023",
+    "launchDay": "20",
+    "launchMonth": "9",
+    "launchYear": "2023",
     "launchpadWEB": "http://localhost:1111",
     "launchpad": "localhost",
     "interested": "high",
     "ID": "#1"
   },
-
   {
     "name": "test",
     "symbol": "sym",
     "category": "GameFi",
-    "launchDay": "20, Sep 2023",
+    "launchDay": "20",
+    "launchMonth": "9",
+    "launchYear": "2023",
     "launchpadWEB": "http://localhost:1111",
     "launchpad": "localhost",
     "interested": "high",
     "ID": "#2"
   },
-
   {
     "name": "test",
     "symbol": "sym",
     "category": "GameFi",
-    "launchDay": "20, Sep 2023",
+    "launchDay": "20",
+    "launchMonth": "9",
+    "launchYear": "2023",
     "launchpadWEB": "http://localhost:1111",
     "launchpad": "localhost",
     "interested": "high",
@@ -35,10 +39,36 @@
     "name": "test",
     "symbol": "sym",
     "category": "GameFi",
-    "launchDay": "20, Sep 2023",
+    "launchDay": "20",
+    "launchMonth": "9",
+    "launchYear": "2023",
     "launchpadWEB": "http://localhost:1111",
     "launchpad": "localhost",
     "interested": "high",
     "ID": "#4"
+  },
+  {
+    "name": "test",
+    "symbol": "sym",
+    "category": "GameFi",
+    "launchDay": "20",
+    "launchMonth": "9",
+    "launchYear": "2023",
+    "launchpadWEB": "http://localhost:1111",
+    "launchpad": "localhost",
+    "interested": "high",
+    "ID": "#5"
+  },
+  {
+    "name": "test",
+    "symbol": "sym",
+    "category": "GameFi",
+    "launchDay": "20",
+    "launchMonth": "9",
+    "launchYear": "2023",
+    "launchpadWEB": "http://localhost:1111",
+    "launchpad": "localhost",
+    "interested": "high",
+    "ID": "#6"
   }
 ]
